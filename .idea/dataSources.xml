@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3836594066">
+    <data-source source="LOCAL" name="Rails tlot-postgreSQL: development" uuid="9ff3d20c-68c6-4d10-9e8a-53628edde3b8">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:tlot-postgreSQL_development</jdbc-url>
+      <user-name>tlot-postgreSQL</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails tlot-postgreSQL: test" uuid="053851bd-410e-479a-86b0-177c854aa245">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:tlot-postgreSQL_test</jdbc-url>
+      <user-name>tlot-postgreSQL</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails tlot-postgreSQL: production" uuid="20385d65-8408-4664-955a-29108293733e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:tlot-postgreSQL_production</jdbc-url>
+      <user-name>tlot-postgreSQL</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

@@ -1,0 +1,24 @@
+<div>
+  <h1>The Lord of the PostgreSQL</h1>
+  <h3>One Postgres to rule them all</h3>
+</div>
+<div>
+  <ul>
+    <% @databases.each do |db| %>
+      <li>
+        <%= db %> <%= link_to 'x', database_delete_path(name: db.first), method: 'post', confirm: "Are you sure you want to delete #{db.first}?" %>
+      </li>
+    <% end %>
+  </ul>
+</div>
+
+<% if flash[:notice] %>
+  <div>
+    <%= flash[:notice] %>
+  </div>
+<% end %>
+<%= form_tag({ controller: 'database', action: 'create' }, method: 'post') do %>
+  <%= label_tag(:name, "New database") %>
+  <%= text_field_tag(:name) %>
+  <%= submit_tag("SUBMIT") %>
+<% end %>
