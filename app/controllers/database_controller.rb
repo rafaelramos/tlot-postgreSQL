@@ -1,7 +1,4 @@
 class DatabaseController < ApplicationController
-  #TODO: Change basic authentication to the environment
-  http_basic_authenticate_with name: "developers", password: "Crowd1122"
-
   def index
     @databases = ActiveRecord::Base.connection.execute("SELECT d.datname as \"Name\" FROM pg_catalog.pg_database d ORDER BY 1")
     @databases = @databases.values()

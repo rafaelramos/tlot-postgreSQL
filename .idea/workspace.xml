@@ -25,10 +25,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5228532">
       <split-first>
         <leaf>
-          <file leaf-file-name="database_controller_spec.rb" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="database_controller_spec.rb" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/controllers/database_controller_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="62" column="7" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1050">
+                <state line="62" column="7" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.858156" vertical-offset="204" max-vertical-offset="1050">
                   <folding />
                 </state>
               </provider>
@@ -82,16 +82,16 @@
           <file leaf-file-name="database_controller.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/controllers/database_controller.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="7" selection-start="991" selection-end="991" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+                <state line="29" column="7" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="20" selection-start="396" selection-end="396" vertical-scroll-proportion="0.19784173" vertical-offset="0" max-vertical-offset="834">
+                <state line="11" column="20" selection-start="396" selection-end="396" vertical-scroll-proportion="-6.6" vertical-offset="0" max-vertical-offset="360">
                   <folding />
                 </state>
               </provider>
@@ -100,14 +100,8 @@
           <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/views/database/index.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="19" column="54" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="435">
-                  <folding>
-                    <marker date="1418748676000" expanded="true" signature="4:90" placeholder="..." />
-                    <marker date="1418748676000" expanded="true" signature="96:337" placeholder="..." />
-                    <marker date="1418748676000" expanded="true" signature="103:330" placeholder="..." />
-                    <marker date="1418748676000" expanded="true" signature="148:308" placeholder="..." />
-                    <marker date="1418748676000" expanded="true" signature="370:405" placeholder="..." />
-                  </folding>
+                <state line="19" column="54" selection-start="471" selection-end="471" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="435">
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -125,19 +119,19 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="database_controller.rb" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="database_controller.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/controllers/database_controller.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="46" selection-start="666" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="630">
+                <state line="0" column="48" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="869">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="84" selection-start="125" selection-end="125" vertical-scroll-proportion="0.017006803" vertical-offset="0" max-vertical-offset="882">
+                <state line="1" column="84" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
                   <folding />
                 </state>
               </provider>
@@ -173,8 +167,8 @@
         <option value="$PROJECT_DIR$/app/views/database/index.html.erb" />
         <option value="$PROJECT_DIR$/spec/controllers/database_controller_spec.rb" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/database_controller.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/controllers/database_controller.rb" />
       </list>
     </option>
   </component>
@@ -657,13 +651,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/database/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="54" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="435">
-          <folding>
-            <marker date="1418748676000" expanded="true" signature="4:90" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="96:337" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="103:330" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="148:308" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="370:405" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +709,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
@@ -752,26 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/database/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="54" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="435">
-          <folding>
-            <marker date="1418748676000" expanded="true" signature="4:90" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="96:337" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="103:330" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="148:308" placeholder="..." />
-            <marker date="1418748676000" expanded="true" signature="370:405" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/controllers/database_controller_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="7" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
@@ -795,21 +765,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="84" selection-start="125" selection-end="125" vertical-scroll-proportion="0.017006803" vertical-offset="0" max-vertical-offset="882">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/database_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="7" selection-start="991" selection-end="991" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+        <state line="1" column="84" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="396" selection-end="396" vertical-scroll-proportion="0.19784173" vertical-offset="0" max-vertical-offset="834">
+        <state line="11" column="20" selection-start="396" selection-end="396" vertical-scroll-proportion="-6.6" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/database/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="54" selection-start="471" selection-end="471" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/database_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="7" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.858156" vertical-offset="204" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/database_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="48" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="869">
           <folding />
         </state>
       </provider>
