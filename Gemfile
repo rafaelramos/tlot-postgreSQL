@@ -11,9 +11,8 @@ end
 group :development, :test do
   gem 'pry'
   gem 'rspec-rails'
+  gem 'capistrano'
+  gem 'capistrano-ext'
 end
 
 gem 'jquery-rails'
-
-# Deploy with Capistrano
-# gem 'capistrano'
